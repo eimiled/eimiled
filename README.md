@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently learning Full Stack Curriculum at Tech Elevator.
+
 <!--
 **eimiled/eimiled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
